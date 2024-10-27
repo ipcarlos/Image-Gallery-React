@@ -1,0 +1,26 @@
+{
+  "header": {
+    "home": "Inicio",
+    "explore": "Explorar",
+    "create": "Crear",
+    "search": "Buscar"
+  },
+  "imageUpload": {
+    "dragDrop": "Arrastra y suelta imágenes aquí, o haz clic para seleccionar",
+    "dropHere": "Suelta las imágenes aquí",
+    "description": "Las imágenes serán analizadas automáticamente para generar una descripción"
+  },
+  "imageList": {
+    "loading": "Analizando imagen...",
+    "deleteImage": "Eliminar imagen"
+  },
+  "imageModal": {
+    "title": "Detalles de la imagen",
+    "createdAt": "Creada el"
+  },
+  "styleSelector": {
+    "bento": "Bento",
+    "masonry": "Mosaico",
+    "carousel": "Carrusel"
+  }
+}

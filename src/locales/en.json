@@ -1,0 +1,26 @@
+{
+  "header": {
+    "home": "Home",
+    "explore": "Explore",
+    "create": "Create",
+    "search": "Search"
+  },
+  "imageUpload": {
+    "dragDrop": "Drag and drop images here, or click to select",
+    "dropHere": "Drop images here",
+    "description": "Images will be automatically analyzed to generate a description"
+  },
+  "imageList": {
+    "loading": "Analyzing image...",
+    "deleteImage": "Delete image"
+  },
+  "imageModal": {
+    "title": "Image Details",
+    "createdAt": "Created at"
+  },
+  "styleSelector": {
+    "bento": "Bento",
+    "masonry": "Masonry",
+    "carousel": "Carousel"
+  }
+}

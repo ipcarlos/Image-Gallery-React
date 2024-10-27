@@ -1,0 +1,26 @@
+{
+  "header": {
+    "home": "Startseite",
+    "explore": "Entdecken",
+    "create": "Erstellen",
+    "search": "Suchen"
+  },
+  "imageUpload": {
+    "dragDrop": "Bilder hierher ziehen oder klicken zum Auswählen",
+    "dropHere": "Bilder hier ablegen",
+    "description": "Die Bilder werden automatisch analysiert, um eine Beschreibung zu generieren"
+  },
+  "imageList": {
+    "loading": "Bild wird analysiert...",
+    "deleteImage": "Bild löschen"
+  },
+  "imageModal": {
+    "title": "Bilddetails",
+    "createdAt": "Erstellt am"
+  },
+  "styleSelector": {
+    "bento": "Bento",
+    "masonry": "Mosaik",
+    "carousel": "Karussell"
+  }
+}
