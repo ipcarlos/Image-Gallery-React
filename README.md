@@ -20,8 +20,8 @@ A web-based image gallery built with **React** and **Vite**, offering a fast and
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ipcarlos/image-gallery.git
-   cd image-gallery
+   git clone https://github.com/ipcarlos/Image-Gallery-React.git
+   cd image-gallery-react
    ```
 
 2. **Install dependencies**:
